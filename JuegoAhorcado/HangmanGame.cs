@@ -12,4 +12,12 @@ namespace JuegoAhorcado
         private string currentWord;
         private List<char> guessedLetters;
         private int lives;
+        public void StartNewGame()
+        {
+            Random random = new Random();
+            currentWord = words[random.Next(words.Count)];
+            guessedLetters = new List<char>();
+            lives = 10;
+        }
     }
+}
