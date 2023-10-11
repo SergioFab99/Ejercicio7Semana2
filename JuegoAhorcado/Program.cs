@@ -11,6 +11,16 @@ namespace JuegoAhorcado
         static void Main()
         {
             HangmanGame game = new HangmanGame();
+            while (true)
+            {
+                game.StartNewGame();
+                game.Play();
+
+                Console.WriteLine("¿Quieres jugar de nuevo? (s/n)");
+                string response = Console.ReadLine();
+                if (response.ToLower() != "s")
+                    break;
+            }
         }
     }
 }
