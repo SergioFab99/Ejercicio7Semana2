@@ -1,0 +1,7 @@
+C:\Users\chech\Desktop\borralo pero pasalo por wsp\PracticaTanakaSemana7\JuegoAhorcado\JuegoAhorcado\bin\Debug\JuegoAhorcado.exe.config
+C:\Users\chech\Desktop\borralo pero pasalo por wsp\PracticaTanakaSemana7\JuegoAhorcado\JuegoAhorcado\bin\Debug\JuegoAhorcado.exe
+C:\Users\chech\Desktop\borralo pero pasalo por wsp\PracticaTanakaSemana7\JuegoAhorcado\JuegoAhorcado\bin\Debug\JuegoAhorcado.pdb
+C:\Users\chech\Desktop\borralo pero pasalo por wsp\PracticaTanakaSemana7\JuegoAhorcado\JuegoAhorcado\obj\Debug\JuegoAhorcado.csproj.AssemblyReference.cache
+C:\Users\chech\Desktop\borralo pero pasalo por wsp\PracticaTanakaSemana7\JuegoAhorcado\JuegoAhorcado\obj\Debug\JuegoAhorcado.csproj.CoreCompileInputs.cache
+C:\Users\chech\Desktop\borralo pero pasalo por wsp\PracticaTanakaSemana7\JuegoAhorcado\JuegoAhorcado\obj\Debug\JuegoAhorcado.exe
+C:\Users\chech\Desktop\borralo pero pasalo por wsp\PracticaTanakaSemana7\JuegoAhorcado\JuegoAhorcado\obj\Debug\JuegoAhorcado.pdb
