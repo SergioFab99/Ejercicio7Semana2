@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace JuegoAhorcado
 {
-    internal class Program
+    class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            HangmanGame game = new HangmanGame();
         }
     }
 }
